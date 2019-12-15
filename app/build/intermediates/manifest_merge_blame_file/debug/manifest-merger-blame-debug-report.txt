@@ -1,0 +1,59 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dyna.sdk"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="22" />
+9-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:7:5-9:35
+12        android:name="android.hardware.usb.host"
+12-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:8:9-49
+13        android:required="true" />
+13-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:9:9-32
+14
+15    <!-- 外部存储器权限 -->
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:12:5-80
+16-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:12:22-78
+17
+18    <application
+18-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:14:5-28:19
+19        android:allowBackup="true"
+19-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:15:9-35
+20        android:debuggable="true"
+21        android:icon="@drawable/ic_launcher"
+21-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:16:9-45
+22        android:label="@string/app_name"
+22-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:17:9-41
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:18:9-40
+25        <activity
+25-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:19:9-26:20
+26            android:name="com.dyna.sdk.MainActivity"
+26-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:20:13-41
+27            android:label="@string/app_name" >
+27-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:21:13-45
+28            <intent-filter>
+28-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:22:13-25:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:23:17-69
+29-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:23:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:24:17-77
+31-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:24:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity android:name="com.dyna.sdk.IDCertificationActivity" />
+34-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:27:9-61
+34-->D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:27:19-58
+35    </application>
+36
+37</manifest>

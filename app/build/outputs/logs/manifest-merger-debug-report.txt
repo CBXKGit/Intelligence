@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.usb.host
+ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:8:9-49
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:12:22-78
+application
+ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:14:5-28:19
+	android:label
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.dyna.sdk.MainActivity
+ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:19:9-26:20
+	android:label
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.dyna.sdk.IDCertificationActivity
+ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:27:9-61
+	android:name
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml:27:19-58
+uses-sdk
+INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\DemoDynaSDK\app\src\main\AndroidManifest.xml
